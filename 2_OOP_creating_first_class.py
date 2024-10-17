@@ -21,7 +21,7 @@ print(p2.fisrt_name)
 
 
 
-
+    
 
 # first letter of your class name should be in caps
 # we create class to make our objects(p1 and p2 ect)
